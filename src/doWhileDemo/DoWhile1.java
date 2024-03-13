@@ -16,7 +16,7 @@ public class DoWhile1 {
 		}while(x<=4);
 
 		
-		
+		System.out.println("Answer is 1234");
 		
 	}
 
